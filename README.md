@@ -1,2 +1,3 @@
 # r_coursera
-learning about R Programming in coursera
+R Programming (coursera)
+by Roger D. Peng
