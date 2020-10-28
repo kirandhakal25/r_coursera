@@ -1,5 +1,5 @@
 {
-  label: "Person"
-  name: "Kiran"
-  age : 28
+  "label": "Person",
+  "name": "Kiran",
+  "age" : 28
 }
